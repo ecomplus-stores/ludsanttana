@@ -20,16 +20,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/capa-de-almofada--28x-50?Capa de Almofada  28x 50",
-      "/capa-de-almofada-43-x-43?Capa de Almofada 43 x 43",
-      "/capa-de-almofada-50-x-50?Capa de Almofada 50 x 50"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": true
   },
   "centralized_logo": false,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true
