@@ -4,11 +4,11 @@
   "primary_color": "#bc6c25",
   "theme": {
     "bootswatch": "cosmo",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/ludsanttana",
-  "logo": "/img/uploads/img_5450-2.jpg",
+  "logo": "/img/uploads/8e512b1b-e3a9-41f4-98b7-565bc2af043e-removebg-preview.png",
   "name": "Luzza Decor",
   "short_name": "ludsanttana",
   "lang": "pt_br",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "tabler-icons",
   "country_code": "BR",
-  "secondary_color": "#606c38",
+  "secondary_color": "#dda15e",
   "icon": "/img/icon.png",
   "store_id": 51439,
   "description": "ludsanttana",
