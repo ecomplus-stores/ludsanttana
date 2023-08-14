@@ -1,7 +1,7 @@
 {
   "domain": "ludsanttana.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#bc6c25",
+  "primary_color": "#b86332",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "tabler-icons",
   "country_code": "BR",
-  "secondary_color": "#dda15e",
+  "secondary_color": "#bd8b69",
   "icon": "/img/icon.png",
   "store_id": 51439,
   "description": "ludsanttana",
