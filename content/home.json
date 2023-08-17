@@ -34,7 +34,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "news",
+      "collection_id": "64d804382cd6b65959151806:categories:Velas aromáticas:/velas-aromaticas"
     },
     {
       "type": "collection-shelf",
