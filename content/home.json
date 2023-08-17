@@ -22,12 +22,17 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "64d803fe2cd6b659591517e9:categories:Capa de Almofada 50 x 50:/capa-de-almofada-50-x-50",
       "sort": "news",
       "title": "",
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     },
     {
       "type": "page-title",
