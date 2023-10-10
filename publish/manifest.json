@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d94626123fd6ecbe538619dcf3c7f5c4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d3cebd9ace8b550539efeccf12dffc50.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.da3d7d6134b917a3dc14016fbaceed4a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b456f0060d712154ca1550d698efe8f6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d2c28533ed99c997e0bfb1a65a7cf756.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Luzza Decor",
+  "short_name": "ludsanttana",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sua casa vai ficar ainda mais bonita e confortável, seja para você e sua família ou para encantar suas visitas! ",
+  "background_color": "#ffffff",
+  "theme_color": "#b86332"
+}
